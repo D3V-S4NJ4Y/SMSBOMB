@@ -1,6 +1,6 @@
 ## Warning🚨:
 
->**⚠️Mi$use of information on this website/tool may result in crimin@l charges against the individuals concerned.  The authors and D3V_S4NJ4Y will not be held responsible in case any crimin@l charges are filed @gainst any person mi$using the information on the website/tool. This website/tool is designed for educational purposes only.⚠️**
+>**⚠️The authors and D3V_S4NJ4Y will not be held responsible in case any crimin@l charges are filed @gainst any person mi$using the information on the website/tool. This website/tool is designed for educational purposes only.**
 ***
 ## Notes:
 >**👉Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages**
