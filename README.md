@@ -1,20 +1,10 @@
 ## Warning🚨:
 
->**⚠️The authors and D3V_S4NJ4Y will not be held responsible in case any crimin@l charges are filed @gainst any person mi$using the information on the website/tool. This website/tool is designed for educational purposes only.**
+>**⚠️ The authors and D3V_S4NJ4Y will not be held responsible in case any crimin@l charges are filed @gainst any person mi$using the information on the website/tool. This website/tool is designed for educational purposes only.**
 ***
 ## Notes:
->**👉Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages**
+>**👉 Due to the overuse of script, a bunch of APIs have been taken offline. It is okay if you do not receive all the messages**
 ***
-
-## Compatibility
-➡️Check your Python version by typing in
-```shell script
-$ python --version
-```
-➡️If you get the following
-```shell script
-Python 3.8.3
-```
 
 ## Usage:
 ### For Termux
@@ -63,7 +53,6 @@ pip install requests
 python bomber.py
 ```
 ***
-
 
 ### For Debian-based GNU/Linux distributions
 
