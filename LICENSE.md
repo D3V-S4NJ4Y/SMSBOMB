@@ -1,7 +1,7 @@
                     GNU GENERAL PUBLIC LICENSE
                        Version 8.8.2023
 
-The original code made by WHITEDH4CKER can be found at https://github.com/WHITEDH4CKER/SMSBOMB.git
+The original code made by D3V-S4NJ4Y can be found at https://github.com/D3V-S4NJ4Y/SMSBOMB.git
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
